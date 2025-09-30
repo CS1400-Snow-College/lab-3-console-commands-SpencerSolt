@@ -1,0 +1,15 @@
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\bin\Debug\net8.0\lab-3-console-commands-SpencerSolt.exe
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\bin\Debug\net8.0\lab-3-console-commands-SpencerSolt.deps.json
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\bin\Debug\net8.0\lab-3-console-commands-SpencerSolt.runtimeconfig.json
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\bin\Debug\net8.0\lab-3-console-commands-SpencerSolt.dll
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\bin\Debug\net8.0\lab-3-console-commands-SpencerSolt.pdb
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\obj\Debug\net8.0\lab-3-console-commands-SpencerSolt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\obj\Debug\net8.0\lab-3-console-commands-SpencerSolt.AssemblyInfoInputs.cache
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\obj\Debug\net8.0\lab-3-console-commands-SpencerSolt.AssemblyInfo.cs
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\obj\Debug\net8.0\lab-3-console-commands-SpencerSolt.csproj.CoreCompileInputs.cache
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\obj\Debug\net8.0\lab-3-console-commands-SpencerSolt.sourcelink.json
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\obj\Debug\net8.0\lab-3-console-commands-SpencerSolt.dll
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\obj\Debug\net8.0\refint\lab-3-console-commands-SpencerSolt.dll
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\obj\Debug\net8.0\lab-3-console-commands-SpencerSolt.pdb
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\obj\Debug\net8.0\lab-3-console-commands-SpencerSolt.genruntimeconfig.cache
+C:\Users\spenc\Desktop\Labs\lab-3-console-commands-SpencerSolt\obj\Debug\net8.0\ref\lab-3-console-commands-SpencerSolt.dll
