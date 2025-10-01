@@ -3,11 +3,19 @@ Console.WriteLine("Hello, I have chosen 4 letters between 'a' and 'g' and have a
 string secret = "gbcf";
 string? guess;
 int guessNumber = 0;
-do
+int correctLetters = 0;
+do //keeps the game going until the secret is guessed
 {
-    guessNumber++;
+    correctLetters = 0;
+    guessNumber++; //adds the amount of times the secret has been guessed
     Console.WriteLine($"Guess #{guessNumber}: Please guess a sequence of 4 lowercase letters with no repeats.");
-    guess = Console.ReadLine();
+    guess = Console.ReadLine(); //gets the users guess
+    for (int i = 0; i < 4; i++)
+    {
+        if (secret.Substring(i, 1) == guess.Substring(i, 1))
+            correctLetters++;
+    }
+    Console.WriteLine($"- {correctLetters} in the correct position");
 }
-while (guess != secret);
-Console.WriteLine("You did it!");
+while (guess != secret); //condition to keep the game going until the secret is correctly guessed
+Console.WriteLine($"You did it! You guessed my secret ({secret}) in {guessNumber} guesses.");
